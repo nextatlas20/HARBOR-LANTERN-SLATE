@@ -1,0 +1,12 @@
+member_id,name,berth,active,revision
+MB-01,Aria Bell,North Pier,yes,1
+MB-02,Bo Chen,East Slip,yes,1
+MB-03,Cleo Diaz,North Pier,no,1
+MB-03,Cleo Diaz,West Basin,yes,2
+MB-04,Dax Evans,East Slip,yes,1
+MB-05,Eli Frost,North Pier,yes,1
+MB-06,Fae Green,West Basin,yes,1
+MB-07,Gus Hall,East Slip,yes,1
+MB-07,Gus Hall,South Dock,no,2
+MB-08,Hana Iqbal,South Dock,yes,1
+bad,row
