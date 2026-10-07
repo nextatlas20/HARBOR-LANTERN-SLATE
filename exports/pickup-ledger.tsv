@@ -1,0 +1,8 @@
+member_id	member	berth	crate	uncollected_units	status
+MB-01	Aria Bell	North Pier	Apple	3	awaiting-pickup
+MB-02	Bo Chen	East Slip	Bread	1	awaiting-pickup
+MB-03	Cleo Diaz	West Basin	Carrot	3	awaiting-pickup
+MB-04	Dax Evans	East Slip	Dates	2	awaiting-pickup
+MB-05	Eli Frost	North Pier	Eggs	6	awaiting-pickup
+MB-06	Fae Green	West Basin	Flour	1	awaiting-pickup
+MB-08	Hana Iqbal	South Dock	Ginger	2	awaiting-pickup
